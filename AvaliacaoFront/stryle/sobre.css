@@ -1,0 +1,16 @@
+.container {
+  width: 500px;
+  margin: 100px auto;
+  padding: 40px;
+
+  background-color: black;
+  color: white;
+
+  text-align: center;
+  border-radius: 10px;
+}
+
+p {
+  color: #838282;
+  font-size: 18px;
+}
